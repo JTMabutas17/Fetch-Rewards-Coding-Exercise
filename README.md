@@ -1,5 +1,6 @@
 # Fetch-Rewards-Coding-Exercise
 My submission for the Fetch Rewards Coding Excercise
+
 Author: Justin Mabutas
 
 ## Description
