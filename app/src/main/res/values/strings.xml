@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fetch Rewards Assignment</string>
+    <string name="list_id">List ID</string>
+    <string name="name">Name</string>
+</resources>
